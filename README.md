@@ -8,7 +8,7 @@ python list.py
 #### Usage :
 #### Use `hasCycle` Method To Detect Cycle and Returns `TRUE` or `FALSE` .
 
-#### Implementation
+#### Implementation :
 ``` python
 lst = LinkedList()
 lst.append(1)
