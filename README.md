@@ -1,13 +1,14 @@
-#### mplement a program to detect a cycle in a linked list using data structures .
+#### Implement a Program to Detect a Cycle in a Linked List Using Data Structures
 
 
 #### Run App :
 ``` python
 python list.py
 ```
-
+#### Usage
 #### Use `hasCycle` Method To Detect Cycle and Returns `TRUE` or `FALSE` .
-#### Implemetation
+
+#### Implementation
 ``` python
 lst = LinkedList()
 lst.append(1)
@@ -25,5 +26,6 @@ fourth.next = second
 lst.hasCycle()
 ```
 
-#### Thanks For Watching
+#### Thanks for Watching!
+
 #### © 2025, All rights reserved. Developed by Ho3ein Tahan
