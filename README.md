@@ -5,7 +5,7 @@
 ``` python
 python list.py
 ```
-#### Usage
+#### Usage :
 #### Use `hasCycle` Method To Detect Cycle and Returns `TRUE` or `FALSE` .
 
 #### Implementation
